@@ -10,7 +10,9 @@ body{
 }
 
 .card{
-    width: 90%;
+    /* width: 500px;
+    max-width: 407px; */
+    width: 100%;
     max-width: 470px;
     background: linear-gradient(135deg, #00feba, #5b548a);
     color: #fff;
@@ -28,6 +30,7 @@ body{
 }
 
 .search input{
+
     border: 0;
     outline: 0;
     background: #ebfffc;
@@ -100,3 +103,4 @@ body{
     display: none;
 
 }
+
